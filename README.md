@@ -1,6 +1,8 @@
 # url_shortener 
 -To install try this app on your laptop.
+
 -Clone or download the this repository on your laptop.
+
 -Prerequisites:python and flask install on your laptop.
 
 
