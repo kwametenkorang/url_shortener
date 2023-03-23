@@ -9,7 +9,7 @@
 -In your powershell or CLI nagivate to the repository you have download.
 
 -Run the commands below:
-
+- python init_db.py
 - export FLASK_APP=app.py
 - flask run
 - 
