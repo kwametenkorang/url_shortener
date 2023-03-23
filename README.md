@@ -17,3 +17,6 @@
 
 You will see  Welcome to FlaskShortener page.
 
+Type or paste the (long) url you want to shorten in the URL session and click submit.
+
+A shorten url will be generated below it. Copy and paste in another tab and it will open the same webpage for the long url. 
